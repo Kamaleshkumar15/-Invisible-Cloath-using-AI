@@ -1,6 +1,8 @@
 # 🪄 Invisible Cloath Using AI
 
 ### 🤖 Real-Time Computer Vision Based Invisible Cloak Effect Using Python, OpenCV & NumPy
+<img width="540" height="540" alt="InvisibilityGIFbygifnews" src="https://github.com/user-attachments/assets/5506b0a9-c2fa-427c-bbe9-67f0c9aa17b4" />
+
 
 ---
 
